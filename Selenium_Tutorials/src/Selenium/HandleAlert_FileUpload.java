@@ -28,8 +28,7 @@ public class HandleAlert_FileUpload {
 		//driver.quit();		
 		
 		
-		
-		
+	
 
 	}
 
