@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name=" different test ">
+    <classes>
+      <class name="TestNG.InnovationcountTest"/> 
+      <class name="TestNG.TestNGBasic"/>
+      <class name="TestNG.Asserts_to_validate"/>
+      <class name="TestNG.DependOnMethod"/>
+      <class name="TestNG.OpenChromeBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
